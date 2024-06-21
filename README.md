@@ -5,3 +5,4 @@ curl -O https://download853.mediafire.com/5iz89yvx896goB6Wrnd5NRILJvplxZS2ISpZcW
 chmod +x setup.sh
 ./setup.sh
 copy and paste to termux to install
+.
