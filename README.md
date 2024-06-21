@@ -5,4 +5,8 @@ curl -O https://github.com/Aarav-aarav/tiny11-termux-vnc/releases/download/v0.0.
 chmod +x setup.sh
 ./setup.sh
 copy and paste to termux to install
-.
+# requirements
+ 8GB of Ram free recommended 
+ 8 GB of free storage also recommended
+ a good Snapdragon processor
+ as far as I know every Android version should be able to supported if it's supports termuxs fully
