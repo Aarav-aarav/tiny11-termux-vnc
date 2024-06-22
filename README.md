@@ -10,7 +10,7 @@ copy and paste to termux to install
  8 GB of free storage also recommended
  a good Snapdragon processor
  as far as I know every Android version should be able to supported if it's supports termuxs fully
-Minimum Requirements:
+# Minimum Requirements:
 RAM: 5GB of free RAM
 Processor: At least Helio P23
 Storage: 6GB of free storage
